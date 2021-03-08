@@ -194,7 +194,7 @@ width: 30%;
     color: black;
     height: 100px;
     background-color:#ffffff;
-    padding-top: 3%;
+    padding-top: 2%;
     border-radius: 15px;
     border: solid 5px black;
 }
